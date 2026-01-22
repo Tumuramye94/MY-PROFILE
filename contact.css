@@ -1,0 +1,90 @@
+.box1{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+
+}
+.luck{
+    
+    height: 50px;
+    padding-left: 15px;
+    background-color: aliceblue;
+    
+}
+.hope{
+    background-color:aliceblue ;
+    height: 50px;
+    padding-left: 15px;
+}
+.peace{
+    background-color: aliceblue;
+    height: 50px;
+    padding-left: 15px;
+}
+.box2{
+    background-color: aquamarine;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 50%;
+    font-size: x-large;
+}
+.box3{
+    background-color: green;
+    height: 300px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+
+}
+.email{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.subject{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.name{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.message{
+    height: 100px;
+    width: 500px;
+
+}
+.submit{
+    padding-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    
+}
+.footer{
+padding-left: 15px;
+ width: 50%;
+ height: 50px;
+ background-color: aqua;
+ text-align: center;
+ margin-bottom: 15px;
+ margin: auto;
+
+
+}
+
+
+
+
+

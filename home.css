@@ -1,0 +1,72 @@
+.cow{
+    height: 50px;
+    background-color: aqua;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 50%;
+    padding-top: 10px;
+    padding-left: 10px;
+
+
+}
+.lion{
+    background-color: antiquewhite;
+    height: 100%;
+    padding-left: 15px;
+
+}
+.hyena{
+    background-color: aqua;
+    height: 100%;
+    padding-left: 15px;
+
+}
+.giraf{
+    background-color: chocolate;
+    height: 100%;
+    padding-left: 15px;
+}
+.goat{
+    height: 500px;
+    width: 50%;
+    background-color: brown;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.kid{
+    height: 500px; 
+    width:49% ;
+    background-color: blanchedalmond;
+    float: left;
+}
+.sheep{
+    background-color: darkcyan;
+    height: 200px;
+    width:50% ;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 10px;
+
+
+
+}
+.chick{
+    background-color: cyan;
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.dog{
+    background-color: darkkhaki;
+    height: 100px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+    
+
+

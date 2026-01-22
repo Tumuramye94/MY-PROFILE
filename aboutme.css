@@ -1,0 +1,93 @@
+.queen {
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+
+}
+
+.joy {
+    background-color: red;
+    height: 50px;
+
+
+}
+
+.happy {
+    background-color: red;
+    height: 50px;
+
+}
+
+.love {
+    background-color: red;
+    height: 50px;
+
+}
+
+.king {
+    background-color: wheat;
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+.castle {
+    background-color: aquamarine;
+    height: 500px;
+    width: 49%;
+    float: left;
+}
+
+.palace {
+    background-color: aliceblue;
+    height: 500px;
+    width: 49%;
+    float: right
+}
+
+.maid {
+    background-color: aqua;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.guard {
+    background-color:burlywood ;
+    height: 180px;
+    width: 100%;
+}
+
+
+
+.prince {
+    background-color: azure;
+    width: 50%;
+    /* height: 100px; */
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.princess{
+    background-color: beige;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: center;
+    
+}
+
+
+    
+    
+    
+    
+    
